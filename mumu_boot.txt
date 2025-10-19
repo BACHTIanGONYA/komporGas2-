@@ -1,0 +1,16 @@
+add_path_to_accelist path: D:\Program Files\Netease\MuMuPlayer\nx_device\12.0\vms\MuMuPlayerGlobal-12.0-base\system.vdi
+add_path_to_accelist path: D:\Program Files\Netease\MuMuPlayer\vms\MuMuPlayerGlobal-12.0-0\data.vdi
+prefetch dlls takes 52 ms
+print meta data: data_type: 1
+type_1, type: 1, size: 707096576 B, ele_num: 10829
+type_2, type: 2, size: 707096576 B, ele_num: 1025
+avail phys: 2091 MB
+prefetch system vdi 674.339844 MB takes 1567 ms
+print meta data: data_type: 2
+type_1, type: 1, size: 1384448 B, ele_num: 283
+type_2, type: 2, size: 1384448 B, ele_num: 217
+avail phys: 2080 MB
+prefetch data vdi 1.320313 MB takes 60 ms
+Qt5WebEngineCore Path: D:\Program Files\Netease\MuMuPlayer\nx_device\12.0\device\\..\EmulatorShell\Qt5WebEngineCore.dll
+PrefetchFileReader::open CreateFileW fail, err: 3
+prefetch webengine dll takes 1 ms
